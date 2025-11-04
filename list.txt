@@ -6,4 +6,7 @@ leberkaese
 chips
 wurst
 kaese
+tomaten
+gurkerl
+paprika
 
