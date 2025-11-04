@@ -1,5 +1,6 @@
 aepfel
 birnen
+bananen
 orangen
 bier
 leberkaese
