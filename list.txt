@@ -18,3 +18,4 @@ paprika
 salat
 brot
 cola
+sprite
